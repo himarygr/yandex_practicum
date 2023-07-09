@@ -1,4 +1,4 @@
-# YandexPracticum
+# Yandex_Practicum
 Works from the "Data Science" course
 
 ________
