@@ -1,5 +1,5 @@
 # Yandex_Practicum
-Works from the "Data Science" course
+Works from the "Data Science Specialist" course
 
 ________
 
