@@ -1,4 +1,4 @@
-# Yandex_Practicum
+# Yandex Practicum
 Works from the **"Data Science Specialist" from Yandex.Praktikum**
 
 ________
